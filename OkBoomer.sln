@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkBoomer", "OkBoomer\OkBoomer.csproj", "{5AE55532-02AD-4F37-AE49-F864A2BFF27E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE55532-02AD-4F37-AE49-F864A2BFF27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE55532-02AD-4F37-AE49-F864A2BFF27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE55532-02AD-4F37-AE49-F864A2BFF27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE55532-02AD-4F37-AE49-F864A2BFF27E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
