@@ -1,6 +1,9 @@
 # Ok Boomer
 
 [Download](https://github.com/jamesw-64/Ok-Boomer/releases/download/1.0/OkBoomer.zip)
+(You'll need to extract *all* files from the ZIP to get it to work. IDK why, that just the way it is...)
+
+Compatability: Anything that runs Mono C# (so basically Windows, Mac and Linux)
 
 Funny little command applet that will make your computer angery when you say 'Ok Boomer' to it!
 
